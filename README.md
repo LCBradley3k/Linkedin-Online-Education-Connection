@@ -65,7 +65,7 @@ Users can edit the type of data that is shown.
 
 #### Detail Page
 
-![Editing](assets/detail.png)
+![Detail Page](assets/detailed.png)
 
 I personally favor a more detailed version, because the way Linkedin currently shows off the "Accomplishments" section feels undervalued and underwhelming as compared to the "Experience" and "Education" section. In a way, the content we are talking about feels different than an "Accomplishment", instead it is more like "progress" that is being identified, verified, and tracked.
 
